@@ -1,0 +1,21 @@
+{
+  "name": "quick-eval",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Abdulah Hamzic",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "nightmare": "^2.10.0"
+  },
+  "engines": {
+    "node": "6.4.0"
+  }
+}
